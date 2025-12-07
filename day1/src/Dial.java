@@ -18,6 +18,7 @@ public class Dial {
                 position += 100;
             }
         }
+
         return position;
     }
 }
